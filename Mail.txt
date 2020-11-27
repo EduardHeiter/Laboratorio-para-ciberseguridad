@@ -1,0 +1,4 @@
+Subject: Prueba de envio de correos
+From: eduardo.gaytanvdz@uanl.edu.com
+Esta es una prueba de la practica de laboratorio, Saludos!
+
